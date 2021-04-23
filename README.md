@@ -1,1 +1,1 @@
-# flavioanderson.github.io/editortxt
+# https://flavioanderson.github.io/editortxt
