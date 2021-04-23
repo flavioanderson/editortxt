@@ -1,0 +1,24 @@
+body{
+	background-color: rgb(79,79,79);
+}
+
+div #div{
+	color:  rgb(255,255,255);
+}
+
+div #div2{
+	color: rgb(255,255,255);
+}
+
+textarea{
+	 font-size: 30px;
+	 font-family: FreeMono, monospace;
+	 border-radius: 20px;
+	 background: transparent;
+  	 resize: vertical;
+}
+
+.texto{
+	color: rgb(255,255,255);
+}
+
